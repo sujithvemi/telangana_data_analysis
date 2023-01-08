@@ -1,1 +1,6 @@
-# telangana_data_analysis
+## Usage
+
+```
+python main.py
+```
+
